@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hostedwebsite/static/css/main.814d032d.css",
+    "main.js": "/hostedwebsite/static/js/main.5fbc6e73.js",
+    "static/media/project6.png": "/hostedwebsite/static/media/project6.d34f6d68db25fc32f85f.png",
+    "static/media/bball.jpg": "/hostedwebsite/static/media/bball.159988de9ec002c0113e.jpg",
+    "static/media/project3.png": "/hostedwebsite/static/media/project3.30a7c2bdb0be3b19d181.png",
+    "static/media/project1.png": "/hostedwebsite/static/media/project1.ce94724ea1792c128a73.png",
+    "static/media/project2.png": "/hostedwebsite/static/media/project2.b211633c843c33fde88a.png",
+    "static/media/project4.png": "/hostedwebsite/static/media/project4.d267bfa885fc7623cdab.png",
+    "static/media/about1.jpg": "/hostedwebsite/static/media/about1.978fd4382ff165739459.jpg",
+    "static/media/js.jpg": "/hostedwebsite/static/media/js.f90606854f547ae3744f.jpg",
+    "static/media/gym.jpg": "/hostedwebsite/static/media/gym.2491888af5eb0336515a.jpg",
+    "static/media/ml.jpg": "/hostedwebsite/static/media/ml.7f3bcd141f2e45fcc830.jpg",
+    "static/media/me.png": "/hostedwebsite/static/media/me.6154f9f73f5a44f69d2c.png",
+    "static/media/cloud.jpg": "/hostedwebsite/static/media/cloud.80116460c899c45423c9.jpg",
+    "static/media/project5.png": "/hostedwebsite/static/media/project5.45b30b32664f63c35e1f.png",
+    "static/media/moon.png": "/hostedwebsite/static/media/moon.e5e06b05925613c32ca2.png",
+    "static/media/phone.png": "/hostedwebsite/static/media/phone.da45c35736151dbbab66.png",
+    "static/media/address.png": "/hostedwebsite/static/media/address.ec7a562f80dab1e1113e.png",
+    "static/media/sun.png": "/hostedwebsite/static/media/sun.2efbc7b110c0f3d4eda8.png",
+    "static/media/email.png": "/hostedwebsite/static/media/email.ee0aba248c02128ed720.png",
+    "index.html": "/hostedwebsite/index.html",
+    "main.814d032d.css.map": "/hostedwebsite/static/css/main.814d032d.css.map",
+    "main.5fbc6e73.js.map": "/hostedwebsite/static/js/main.5fbc6e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.814d032d.css",
+    "static/js/main.5fbc6e73.js"
+  ]
+}
