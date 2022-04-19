@@ -8,7 +8,7 @@ JavaScript and CSS.
 Update new CSS transition      
 Using EmailJS for email service in Contact Section.   
 Using Context API to create a toggle for Dark Mode.   
-Create a responsive design for phone view by media query  . 
+Create a responsive design for phone view by media query  .   
 It will be hosted on GitHub.    
 
 # Here are the example capture from website:
