@@ -1,6 +1,6 @@
 # Web Portfolio Using React
 
-Hi this is the link to my portfolio: https://longnguyen1112.github.io/long_portfolio/
+Hi this is the link to my portfolio: https://longnguyen1112.github.io/long_portfolio/.   
 I just think that I need to reinforce my knowledge of Front-end (CSS and Javascript) and practice more on React by creating a web portfolio for myself.
 
 # This project is to learn and practice on:
