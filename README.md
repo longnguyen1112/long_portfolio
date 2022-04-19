@@ -4,12 +4,12 @@ Hi this is the link to my portfolio: https://longnguyen1112.github.io/long_portf
 I just think that I need to reinforce my knowledge of Front-end (CSS and Javascript) and practice more on React by creating a web portfolio for myself.
 
 # This project is to learn and practice on:
-JavaScript and CSS. 
-Update new CSS transition    
-Using EmailJS for email service in Contact Section. 
-Using Context API to create a toggle for Dark Mode. 
-Create a responsive design for phone view by media query. 
-It will be hosted on GitHub.  
+JavaScript and CSS.   
+Update new CSS transition      
+Using EmailJS for email service in Contact Section.   
+Using Context API to create a toggle for Dark Mode.   
+Create a responsive design for phone view by media query  . 
+It will be hosted on GitHub.    
 
 # Here are the example capture from website:
 Listing the projects:  
