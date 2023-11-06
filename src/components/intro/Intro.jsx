@@ -18,7 +18,7 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        My prefer name is Nathan. I am currently a Computer Science student at MSU. I am aiming to enhance my knowledge in various areas of technology and software/product development. Currently seeking for a job (willing to relocate in the US).
+                        My prefer name is Long. I am currently a Computer Science student at MSU. I am aiming to enhance my knowledge in various areas of technology and software/product development. Currently seeking for a job (willing to relocate in the US).
                     </p>
                 </div>
             </div>
